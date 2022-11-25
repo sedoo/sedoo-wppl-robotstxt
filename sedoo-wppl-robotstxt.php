@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Sedoo Robots.txt generator
  * Description: Ajoutez des infos au fichier robots.txt
- * Version: 0.2.0
+ * Version: 0.3.0
  * Author: Pierre Vert - SEDOO OMP
  * Text Domain:  sedoo-wppl-robotstxt 
  * Domain Path:  /languages
